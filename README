@@ -1,4 +1,5 @@
-# About
+README
+======
 
 An implementation of a passive chart parser used to parse natural language expressions with the use of a context free grammar.
 Below is the output of parsing 'a truck hit the tree in the garden' when packing is turned on:
